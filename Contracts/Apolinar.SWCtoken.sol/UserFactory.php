@@ -1,6 +1,7 @@
 pragma solidity ^0.4.18;
 
 /**
+ *@apolinar/**
  * Scanetchain is the First Commecialized Blockchain Platform
  */
 
